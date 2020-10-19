@@ -72,13 +72,13 @@ i {
 }
 
 .form-control:focus {
-    box-shadow: none!important;
-    border-color: #ced4da!important;
-    outline: transparent!important;
+    box-shadow: none;
+    border-color: #ced4da;
+    outline: transparent;
     z-index: 1!important;
 }
 
 button {
-    background-color: #2bc087!important;
+    background-color: #2bc087;
     color: white!important;
 }
